@@ -1,0 +1,3 @@
+que hay archivos que no estan siendo seguidos por git 
+el archivo info fue modificado 
+no puedo hacer git log por que no tengo ningun commit 
